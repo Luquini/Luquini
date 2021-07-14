@@ -4,7 +4,7 @@ My name's Vitor Luquini, i'm 21 years old and most of the time i spend developin
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Tecnologias mais usadas:
+### Most used language:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,5 +16,14 @@ My name's Vitor Luquini, i'm 21 years old and most of the time i spend developin
 <br/>
 
 [![luquini stats](https://github-readme-stats.vercel.app/api?username=luquini&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/luquini/)
+
+### Contact:
+<img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+<string>Hellsing#0480</string>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>

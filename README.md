@@ -19,7 +19,7 @@ My name's Vitor Luquini, i'm 21 years old and most of the time i spend developin
 
 ### Contact:
 <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-<string>Hellsing#0480</string>
+<string>Vitorr#0480</string>
 
 <br/>
 <br/>

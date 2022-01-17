@@ -1,5 +1,5 @@
 
-<h2>Welcome to my github <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2>Bem vindo(a) ao meu GitHub! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 Olá eu sou Vitor Luquini, tenho 23 anos, estudo analise e desenvolvimento de sistemas, tenho me dedicado aos frameworks
 React e Spring Boot.
 

@@ -18,8 +18,8 @@ My name's Vitor Luquini, i'm 21 years old and most of the time i spend developin
 [![luquini stats](https://github-readme-stats.vercel.app/api?username=luquini&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/luquini/)
 
 ### Contact:
-<img align="left" alt="Discord" target="https://api.whatsapp.com/send?phone=5521967727485&text=Oi" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png"/>
-<string>Enviar Mensagem</string>
+<img align="left" alt="Discord" target="_blank" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png"/>
+<string><a href="https://api.whatsapp.com/send?phone=5521967727485&text=Oi">Enviar Mensagem<a/></string>
 
 <br/>
 <br/>

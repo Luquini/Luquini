@@ -29,7 +29,7 @@
 <br/>
 <h2>Contact:</h2>
 <img align="left" alt="Discord" target="_blank" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png"/>
-<string><a href="https://api.whatsapp.com/send?phone=5521967727485&text=Oi">Enviar Mensagem<a/></string>
+<string><a href="https://api.whatsapp.com/send?phone=5521967727485&text=Oi">Send Message<a/></string>
 
 <br/>
 <br/>

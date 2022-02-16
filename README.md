@@ -4,7 +4,7 @@ Hi There! I'm a Brazilian developer, a science and technology lover and above al
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Most used languages:
+### Most used frameworks:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -13,8 +13,10 @@ Hi There! I'm a Brazilian developer, a science and technology lover and above al
 
 
 <br/>
-
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=luquini alt=luquini /> </p>
 [![luquini stats](https://github-readme-stats.vercel.app/api?username=luquini&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/luquini/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luquini&layout=compact)](https://github.com/kortkamp/github-readme-stats)
 
 ### Contact:
 <img align="left" alt="Discord" target="_blank" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png"/>

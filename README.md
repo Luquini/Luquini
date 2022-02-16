@@ -1,6 +1,12 @@
-
 <h2>Welcome to my Github! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-Hi There! I'm a Brazilian developer, a science and technology lover and above all, a passionate about learning new things.
+
+[![Gmail Badge](https://img.shields.io/badge/-vitorluquinidev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vitorluquinidev@gmail.com)](mailto:vitorluquinidev@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-luquini-grey?style=flat&logo=github&logoColor=white&link=https://github.com/luquini/)](https://www.github.com/luquini/)
+[![Linkedin Badge](https://img.shields.io/badge/-vitorluquini-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-luquini-926203202/)](https://www.linkedin.com/in/vitor-luquini-926203202/) 
+
+<br/>
+
+<p>Hi There! I'm a Brazilian developer, a science and technology lover and above all, a passionate about learning new things.</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 

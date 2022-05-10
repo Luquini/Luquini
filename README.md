@@ -25,7 +25,6 @@
 <img src="https://komarev.com/ghpvc/?username=luquini" alt="luquini" /> 
 
 [![luquini stats](https://github-readme-stats.vercel.app/api?username=luquini&layout=compact&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/luquini/)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luquini&layout=compact&theme=tokyonight)](https://github.com/kortkamp/github-readme-stats)
 
 <br/>
 <h2>Contact:</h2>
